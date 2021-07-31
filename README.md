@@ -10,7 +10,18 @@ years 2015-18 with details such as reason of attrition along with other employee
 The data was divided into train and test data set. we used the training data to build models/analytical solution
 and finally apply it to test data to measure the performance and robustness of the models.
 
-Objective: To build a Machine Learning model to predict the following:
-• Identify factors influencing attrition
-• Predict possible attritions
-• Identify possible ways to retain high performers
+## Objective: To build a Machine Learning model to predict the following:
+• Identify factors influencing attrition.
+• Predict possible attritions.
+• Identify possible ways to retain high performers.
+
+## Data sources
+For the purpose analysis, Data used in this capstone project was provided by **Imarticus Learnings**.
+
+# Modeling
+The problem at hand was of classification, hence we chose famous classification algorithm’s, Logistic Regression,
+Decision tree  & Random Forest to make ML model.
+
+# Evaluation
+All the models performed well with over 90% accuracy, but Random Forest weas better among all with 96% accuracy.
+
