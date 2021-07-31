@@ -16,7 +16,7 @@ and finally apply it to test data to measure the performance and robustness of t
 3. Identify possible ways to retain high performers
 
 ## Data sources
-For the purpose analysis, Data used in this capstone project was provided by **Imarticus Learnings**.
+Data used For Data analysis & Model Makeing in this capstone project was provided by **Imarticus Learnings**.
 
 # Modeling
 The problem at hand was of classification, hence we chose famous classification algorithm’s, Logistic Regression,
