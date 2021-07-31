@@ -11,9 +11,9 @@ The data was divided into train and test data set. we used the training data to 
 and finally apply it to test data to measure the performance and robustness of the models.
 
 ## Objective: To build a Machine Learning model to predict the following:
-1. Identify factors influencing attrition\n
-2. Predict possible attritions\n
-3. Identify possible ways to retain high performers\n
+1. Identify factors influencing attrition
+2. Predict possible attritions
+3. Identify possible ways to retain high performers
 
 ## Data sources
 For the purpose analysis, Data used in this capstone project was provided by **Imarticus Learnings**.
